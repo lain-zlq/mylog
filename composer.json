@@ -14,6 +14,6 @@
         }
     ],
     "require": {
-        "monolog/monolog": "2.x-dev"
+        "monolog/monolog": "2.6.*"
     }
 }
