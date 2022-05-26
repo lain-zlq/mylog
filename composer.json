@@ -1,15 +1,15 @@
 {
-    "name": "zlq/log",
+    "name": "lainzlq/log",
     "description": "zlq self log",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zlq\\Log\\": "src/"
+            "LainZlq\\Log\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "zlq",
+            "name": "lain-zlq",
             "email": "tianshuizlq@foxmail.com"
         }
     ],

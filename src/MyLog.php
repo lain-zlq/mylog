@@ -1,5 +1,5 @@
 <?php
-namespace Zlq\Log;
+namespace LainZlq\Log;
 use Monolog\Level;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
