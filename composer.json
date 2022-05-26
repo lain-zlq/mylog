@@ -1,0 +1,19 @@
+{
+    "name": "zlq/log",
+    "description": "zlq self log",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zlq\\Log\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zlq",
+            "email": "tianshuizlq@foxmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "2.x-dev"
+    }
+}
